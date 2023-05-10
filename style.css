@@ -1,0 +1,77 @@
+.container{
+    width: 600px;
+    height: 600px;
+    border: 10px solid black;
+    margin: 0 auto;
+}
+
+.upperrectangle{
+    width: 600px;
+    height: 450px;
+    border-bottom: 5px solid black;
+    display: flex;
+}
+.twowhitesquares{
+    width: 150px;
+    height: 450px;
+    border-right: 5px solid black;
+}
+
+.firstwhitesquare{
+    width: 150px;
+    height: 225px;
+    border-bottom: 5px solid black;
+}
+.secondwhitesquare{
+    width: 150px;
+    height: 225px;
+    border-top: 5px solid black;
+}
+
+.redsquare{
+    width: 450px;
+    height: 450px;
+    border-left: 5px solid black;
+    background-color: red;
+}
+
+.lowerrectangle{
+    width: 600px;
+    height: 150px;
+    display: flex;
+}
+
+.first{
+    width: 158px;
+    height: 150px;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    background-color: blue;
+}
+
+.middle{
+    width: 375px;
+    height: 150px;
+    border-right: 5px solid black;
+    border-left: 5px solid black;
+}
+
+.last{
+    width: 75px;
+    height: 150px;
+    border-left: 5px solid black;
+}
+
+.whitesquare{
+    width: 75px;
+    height: 75px;
+    border-bottom: 5pt solid black;
+}
+
+.yellowsquare{
+    width: 75px;
+    height: 65px;
+    border-bottom: 5pt solid black;
+    background-color: yellow;
+
+}
